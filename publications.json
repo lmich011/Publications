@@ -1,0 +1,738 @@
+[
+  {
+    "id": "review-01",
+    "category": "published",
+    "year": 2026,
+    "title": "Voluntary Ankle Contraction Reproduces Centre of Pressure Features Commonly Attributed to Automatic Postural Control",
+    "authors": "Michaud, L., & Lajoie, Y.",
+    "journal": "Gait & Posture, 132, Article 110668",
+    "doi": "10.1016/j.gaitpost.2026.110668",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-05",
+    "category": "published",
+    "year": 2026,
+    "title": "Restricting the Center of Mass Motion Via Multisegment Versus Localized Constraints: Its Impact on the Center of Pressure Behavior",
+    "authors": "Michaud, L., Pommier, L., Grondin, V., Giddings, S., Paquet, B., & Lajoie, Y.",
+    "journal": "Motor Control, 30(2), 144–162",
+    "doi": "10.1123/mc.2025-0095",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-03",
+    "category": "published",
+    "year": 2026,
+    "title": "Effect of full-body immobilization on center of pressure complexity in open- and closed-eyes conditions",
+    "authors": "Michaud, L., Rosa, C., Turgeon, L., Babineau, S., Boudreau, B., & Lajoie, Y.",
+    "journal": "Gait & Posture, 124, Article 109980",
+    "doi": "10.1016/j.gaitpost.2025.109980",
+    "url": "",
+    "openAccess": false,
+    "preprints": [
+      {
+        "doi": "10.2139/ssrn.4984617",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "article-01",
+    "category": "published",
+    "year": 2025,
+    "title": "Effects of Elevated Height in Virtual Reality on Postural Control in the Semi-Tandem Stance",
+    "authors": "Chik, M., Michaud, L., & Lajoie, Y.",
+    "journal": "Journal of Motor Behavior, 57(6), 664–672",
+    "doi": "10.1080/00222895.2025.2537821",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-04",
+    "category": "published",
+    "year": 2025,
+    "title": "Visual Biofeedback and Postural Control: Exploring Potential Implicit Visual Integration",
+    "authors": "Michaud, L., Desjardins, D., Perreault, A., Mayer, A.-S., Sauvé, M.-O., Desjardins, R., & Lajoie, Y.",
+    "journal": "Journal of Motor Behavior, 57(5), 554–567",
+    "doi": "10.1080/00222895.2025.2523448",
+    "url": "",
+    "openAccess": false,
+    "preprints": [
+      {
+        "doi": "10.21203/rs.3.rs-4396310/v1",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "article-10",
+    "category": "published",
+    "year": 2024,
+    "title": "The Fukuda Stepping test is associated with various patterns of displacement",
+    "authors": "Paquet, N., Michaud, L., & Lajoie, Y.",
+    "journal": "Hearing, Balance and Communication, 22(1), 3–7",
+    "doi": "10.4103/HBC.HBC_1_23",
+    "url": "",
+    "openAccess": true
+  },
+  {
+    "id": "article-07",
+    "category": "published",
+    "year": 2024,
+    "title": "Increasing Visual Biofeedback Scale Changes Postural Control Complexity",
+    "authors": "Michaud, L., Laniel, F., & Lajoie, Y.",
+    "journal": "Applied Psychophysiology and Biofeedback, 49, 291–299",
+    "doi": "10.1007/s10484-023-09619-w",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-06",
+    "category": "published",
+    "year": 2023,
+    "title": "Effect of Center of Mass Immobilization on Center of Pressure Displacement in Single and Dual-Task",
+    "authors": "Michaud, L., Lafleur, D., & Lajoie, Y.",
+    "journal": "Journal of Motor Behavior, 55(6), 539–549",
+    "doi": "10.1080/00222895.2021.1896468",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-12",
+    "category": "published",
+    "year": 2022,
+    "title": "Hemodynamic responses of quiet standing simultaneously performed with different cognitive loads in older adults",
+    "authors": "St-Amant, G., Salzman, T., Michaud, L., Polskaia, N., Fraser, S., & Lajoie, Y.",
+    "journal": "Human Movement Science, 82, 102931",
+    "doi": "10.1016/j.humov.2022.102931",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-09",
+    "category": "published",
+    "year": 2022,
+    "title": "Effect of Dual Task on Step Variability during Stepping in Place without Vision",
+    "authors": "Paquet, N., Polskaia, N., Michaud, L., & Lajoie, Y.",
+    "journal": "Journal of Motor Behavior, 54(3), 337–343",
+    "doi": "10.1080/00222895.2021.1965526",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-08",
+    "category": "published",
+    "year": 2021,
+    "title": "Number of trials needed to assess postural control of young adults in single and dual-task",
+    "authors": "Michaud, L., Richer, N., & Lajoie, Y.",
+    "journal": "Journal of Motor Behavior, 53(1), 30–39",
+    "doi": "10.1080/00222895.2020.1723479",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "article-11",
+    "category": "published",
+    "year": 2021,
+    "title": "Hemodynamic and Behavioral Changes in Older Adults During Cognitively Demanding Dual-Tasks",
+    "authors": "Salzman, T., Tobón Vallejo, D., Polskaia, N., Michaud, L., St-Amant, G., Lajoie, Y., & Fraser, S.",
+    "journal": "Brain and Behavior, 11(3), Article e02021",
+    "doi": "10.1002/brb3.2021",
+    "url": "",
+    "openAccess": true,
+    "preprints": [
+      {
+        "doi": "10.21203/rs.3.rs-55419/v1",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "article-02",
+    "category": "published",
+    "year": 2021,
+    "title": "The effects of Kinesiology Tape on static postural control in individuals with Functional ankle instability",
+    "authors": "Ly, K., Michaud, L., & Lajoie, Y.",
+    "journal": "Physical Therapy in Sport, 48, 146–153",
+    "doi": "10.1016/j.ptsp.2021.01.003",
+    "url": "",
+    "openAccess": false
+  },
+  {
+    "id": "nov-review-1",
+    "category": "review",
+    "year": 2026,
+    "title": "Postural Stability During Augmented Reality Use: A Comparison of Adults With Low Vision and Normal Vision",
+    "authors": "Gopalakrishnan, S., Gibson, A., Michaud, L., Kartha, A., Fletcher, D., & Wittich, W.",
+    "journal": "Under review · Optometry and Vision Science",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "nov-review-2",
+    "category": "review",
+    "year": 2026,
+    "title": "The Effects of a Continuous Cognitive Task on Postural Control Under Virtual Height-Induced Threat",
+    "authors": "Michaud, L., Abraham, K., & Lajoie, Y.",
+    "journal": "Under review · Perceptual and Motor Skills",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.51224/SportRxiv.1150",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "nov-review-3",
+    "category": "review",
+    "year": 2026,
+    "title": "Neuromuscular Responses to Dorsiflexors and Plantarflexors Fatigue During Backward Leaning",
+    "authors": "Michaud, L., Choinière, M., Haidar, M., Iturregui, M., Porras-Fil, J., Vincelette-Barrette, G., & Bilodeau, M.",
+    "journal": "Under review · Journal of Electromyography and Kinesiology",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.51224/SportRxiv.1148",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "nov-review-4",
+    "category": "review",
+    "year": 2026,
+    "title": "The Complexity of Postural Sway Effects on Affordance Perception in Young and Older Adults",
+    "authors": "Ong, H., Michaud, L., & Lajoie, Y.",
+    "journal": "Under review · Ecological Psychology",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.31234/osf.io/29w3j_v1",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "nov-review-5",
+    "category": "review",
+    "year": 2026,
+    "title": "Comparative Analysis of Postural Control in Competitive Cross-Country Skiers and Non-Skiers",
+    "authors": "Chik, M., Lajoie, Y., & Michaud, L.",
+    "journal": "Under review · Journal of Sports Sciences",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.51224/SportRxiv.1105",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "review-05",
+    "category": "review",
+    "year": 2026,
+    "title": "The Effect of Visual Biofeedback and Modality-Specific Cognitive Load on Postural Control and Performance",
+    "authors": "Ong, H., Lajoie, Y., & Michaud, L.",
+    "journal": "Under review · Perceptual and Motor Skills",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.51224/SportRxiv.1026",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "review-03",
+    "category": "review",
+    "year": 2026,
+    "title": "Task- and Muscle-Dependent Effects of Ankle Fatigue on Center of Pressure Complexity During Leaning",
+    "authors": "Michaud, L., Choinière, M., Haidar, M., Iturregui, M., Porras-Gil, J., Vincelette-Barrette, G., & Bilodeau, M.",
+    "journal": "Under review · Human Movement Science",
+    "doi": "",
+    "url": "",
+    "preprints": [
+      {
+        "doi": "10.51224/SportRxiv.994",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "review-04",
+    "category": "review",
+    "year": 2026,
+    "title": "The Effect of Postural Threat Simulated Through Virtual Reality on Postural Control",
+    "authors": "Ong, H., Michaud, L., & Lajoie, Y.",
+    "journal": "Under review · PRESENCE: Virtual and Augmented Reality",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "review-02",
+    "category": "review",
+    "year": 2026,
+    "title": "Effect of Visual Biofeedback on Centre of Pressure Displacement During Belt-Induced Centre of Mass Immobilization: Possible Evidence of Exploratory Behaviour",
+    "authors": "Michaud, L., Lussier, R., Laniel, F., Séguin, M., Vandal, É., Baulac, S., & Lajoie, Y.",
+    "journal": "Under review · Ecological Psychology",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-01",
+    "category": "conference",
+    "year": 2021,
+    "title": "How is stepping in place without vision influenced by a continuous concurrent cognitive task?",
+    "authors": "Paquet, N., Michaud, L., Polskaia, N., & Lajoie, Y.",
+    "journal": "Canadian Psychological Association (CPA) · Virtual conference",
+    "doi": "",
+    "url": "https://cpa.ca/docs/File/Convention/2021/Abstract%20Book%202021%20-%20v1.1.pdf#page=404",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 404."
+  },
+  {
+    "id": "communication-02",
+    "category": "conference",
+    "year": 2025,
+    "title": "Effect of Virtual Reality-Induced Postural Threat on Center of Pressure Displacement",
+    "authors": "Michaud, L., Chik, M., Ong, H., & Lajoie, Y.",
+    "journal": "European Society of Biomechanics · 30th congress, Zürich",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-03",
+    "category": "conference",
+    "year": 2025,
+    "title": "Induced Postural Threat in Virtual Reality: A Rambling-Trembling Assessment",
+    "authors": "Michaud, L., Ong, H., & Lajoie, Y.",
+    "journal": "European Society of Biomechanics · 30th congress, Zürich",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-04",
+    "category": "conference",
+    "year": 2022,
+    "title": "Effects of Static Head Position on Unintentional Body Rotation and Displacement During Stepping in Place Without Vision",
+    "authors": "De Andrade e Souza Mazuchi, F., Michaud, L., & Paquet, N.",
+    "journal": "ISEK XXIV · Québec · P1-I-30",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-05",
+    "category": "conference",
+    "year": 2022,
+    "title": "Step height effects on double leg support time during stepping in place without vision",
+    "authors": "Paquet, N., Michaud, L., & Lajoie, Y.",
+    "journal": "ISEK XXIV · Québec · P3-I-33",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-06",
+    "category": "conference",
+    "year": 2025,
+    "title": "Effect of visual biofeedback scale on the rambling and trembling components",
+    "authors": "Michaud, L., Laniel, F., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Maastricht · P02-B-08",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2025/06/ISPGR-World-Congress-2025_AbstractProceedings.pdf#page=296",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 296."
+  },
+  {
+    "id": "communication-07",
+    "category": "conference",
+    "year": 2025,
+    "title": "Distinct effects of center of mass immobilization on fast and slow center of pressure dynamics",
+    "authors": "Michaud, L., Pommier, L., Grondin, V., Giddings, S., Paquet, B., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Maastricht · P03-B-08",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2025/06/ISPGR-World-Congress-2025_AbstractProceedings.pdf#page=445",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 445."
+  },
+  {
+    "id": "communication-08",
+    "category": "conference",
+    "year": 2022,
+    "title": "Assessing the effect of relevant and irrelevant visual information during visual feedback tasks in quiet standing",
+    "authors": "Michaud, L., Desjardins, D., Lafleur, D., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Montréal · P1-L-79",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2023/06/2022AbstractBook.pdf#page=171",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 171."
+  },
+  {
+    "id": "communication-09",
+    "category": "conference",
+    "year": 2022,
+    "title": "Assessing the role of visual pursuit and shift in attentional focus in the improvement of postural control during a visual feedback paradigm",
+    "authors": "Michaud, L., Desjardins, D., Lafleur, D., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Montréal · P2-L-73",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2023/06/2022AbstractBook.pdf#page=309",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 309."
+  },
+  {
+    "id": "communication-10",
+    "category": "conference",
+    "year": 2022,
+    "title": "Exploring the role of vision on the center of pressure displacement during center of mass immobilization: A replication and expansion of Carpenter et al. (2010)",
+    "authors": "Michaud, L., Rosa, C., Turgeon, L., Babineau, S., Boudreau, B., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Montréal · P2-W-139",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2023/06/2022AbstractBook.pdf#page=369",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 369."
+  },
+  {
+    "id": "communication-11",
+    "category": "conference",
+    "year": 2023,
+    "title": "Assessing the effect of relevant and irrelevant visual information during visual feedback tasks in relation to the base of support width",
+    "authors": "Michaud, L., Perreault, A., Mayer, A.-S., Sauvé, M.-O., Desjardins, R., & Lajoie, Y.",
+    "journal": "ISPGR World Congress · Brisbane · P2-R-74",
+    "doi": "",
+    "url": "https://ispgr.org/wp-content/uploads/2023/07/ISPGR-2023-Abstract-Proceedings_Final.pdf#page=200",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF), page 200."
+  },
+  {
+    "id": "communication-12",
+    "category": "conference",
+    "year": 2022,
+    "title": "Effects of Step Height on Shoulder and Pelvis Rotations in the Transverse Plane During Stepping in Place",
+    "authors": "Michaud, L., Nguyen, K. V., & Paquet, N.",
+    "journal": "NACOB 2022",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "communication-13",
+    "category": "conference",
+    "year": 2025,
+    "title": "Comparative Analysis of Postural Stability in Competitive Cross-Country Skiers and Non-Skiers",
+    "authors": "Chik, M., Michaud, L., & Lajoie, Y.",
+    "journal": "SCAPPS · Journal of Exercise, Movement, and Sport, 56(1)",
+    "doi": "",
+    "url": "https://www.scapps.org/jems/index.php/1/en/article/view/3869",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Published conference abstract (open access)."
+  },
+  {
+    "id": "communication-14",
+    "category": "conference",
+    "year": 2025,
+    "title": "Reduced Muscle Activity and Co-Contraction in Cross-Country Skiers Compared to Non-Skiers During a Challenging Postural Task",
+    "authors": "Michaud, L., Chik, M., & Lajoie, Y.",
+    "journal": "SCAPPS · Journal of Exercise, Movement, and Sport, 56(1)",
+    "doi": "",
+    "url": "https://www.scapps.org/jems/index.php/1/en/article/view/3892",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Published conference abstract (open access)."
+  },
+  {
+    "id": "communication-16",
+    "category": "conference",
+    "year": 2019,
+    "title": "Number of trials required to assess standing postural control in single and dual tasks in young adults",
+    "authors": "Michaud, L., Richer, N., & Lajoie, Y.",
+    "journal": "SOFPEL · 26th annual congress",
+    "doi": "10.1016/j.neucli.2019.10.134",
+    "url": "",
+    "language": "en",
+    "note": "Original title in French. Neurophysiologie Clinique, 49(6), 456."
+  },
+  {
+    "id": "communication-17",
+    "category": "conference",
+    "year": 2021,
+    "title": "The impact of dual task on step variability is influenced by stepping height during stepping in place without vision",
+    "authors": "Paquet, N., Michaud, L., Polskaia, N., & Lajoie, Y.",
+    "journal": "Society for Neuroscience · P219.01",
+    "doi": "",
+    "url": "https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Past-Meetings/SFN21_Connectome_Abstracts_PDFs.pdf#page=1272",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF, 55 MB), pages 1272–1273."
+  },
+  {
+    "id": "communication-18",
+    "category": "conference",
+    "year": 2021,
+    "title": "Effect of kinesiology tape on static postural control in non-athlete young adults with functional ankle instability",
+    "authors": "Michaud, L., Ly, K., & Lajoie, Y.",
+    "journal": "Society for Neuroscience · P222.06",
+    "doi": "",
+    "url": "https://www.sfn.org/-/media/SfN/Documents/NEW-SfN/Meetings/Past-Meetings/SFN21_Connectome_Abstracts_PDFs.pdf#page=1293",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Abstract in the conference proceedings (PDF, 55 MB), pages 1293–1294."
+  },
+  {
+    "id": "communication-19",
+    "category": "conference",
+    "year": 2021,
+    "title": "Continuous and difficult cognitive tasks do not improve gait control compared to a discrete and easier task in healthy young adults",
+    "authors": "Michaud, L., Dennis, J., Lebeau, C., Pelletier, A., Zevnik, A., & Lajoie, Y.",
+    "journal": "Society for Neuroscience · P562.01",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "id": "nov-conference-1",
+    "category": "conference",
+    "year": 2026,
+    "title": "Immediate effects of the Keeogo™ exoskeleton on gait kinematics in people with Parkinson’s disease",
+    "authors": "Michaud, L., Bouguila, A., Moussa, A., Cadena, K., Bilodeau, M., & Potvin-Desrochers, A.",
+    "journal": "Q-DOPA · Montréal · November 20, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Scheduled poster presentation. Title translated from French."
+  },
+  {
+    "id": "nov-conference-2",
+    "category": "conference",
+    "year": 2026,
+    "title": "Short-Term Effects of the Keeogo™ Movement-Assisting Exoskeleton on Clinical Test Performance in Individuals with Parkinson’s Disease",
+    "authors": "Michaud, L., Bouguila, A., Gagnon, J.-C., Moussa, A., Bilodeau, M., & Potvin-Desrochers, A.",
+    "journal": "AGE-WELL Annual Conference · Ottawa · November 2–4, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Scheduled poster presentation."
+  },
+  {
+    "id": "nov-conference-3",
+    "category": "conference",
+    "year": 2026,
+    "title": "Kinesiophobia and immediate functional response to personalized Keeogo™ exoskeleton assistance in Parkinson’s disease",
+    "authors": "Bouguila, A., Michaud, L., Gagnon, J.-C., Moussa, A., Bilodeau, M., & Potvin-Desrochers, A.",
+    "journal": "AGE-WELL Annual Conference · Ottawa · November 2–4, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Scheduled poster presentation."
+  },
+  {
+    "id": "nov-conference-4",
+    "category": "conference",
+    "year": 2026,
+    "title": "Acceptance of technology in people living with Parkinson’s disease: Preliminary exploratory finding",
+    "authors": "Moussa, A., Michaud, L., Bouguila, A., Mougeot, N., & Potvin-Desrochers, A.",
+    "journal": "AGE-WELL Annual Conference · Ottawa · November 3, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Scheduled poster presentation."
+  },
+  {
+    "id": "nov-conference-5",
+    "category": "conference",
+    "year": 2026,
+    "title": "Association Between Kinesiophobia and Objective Mobility in Parkinson’s disease",
+    "authors": "Bouguila, A., Michaud, L., Moussa, A., & Potvin-Desrochers, A.",
+    "journal": "McGill Faculty of Medicine Research Day · Gatineau · November 3, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Scheduled poster presentation."
+  },
+  {
+    "id": "nov-conference-6",
+    "category": "conference",
+    "year": 2026,
+    "title": "The effect of visual biofeedback on auditory and visual cognitive load",
+    "authors": "Lapointe, E., Ong, H., Michaud, L., & Lajoie, Y.",
+    "journal": "SCAPPS · Ottawa · October 1–3, 2026",
+    "doi": "",
+    "url": "https://www.scapps.org/wp-content/uploads/2026/09/SCAPPS2026_Conference_Abstract_Book-Sep20.pdf#page=240",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Poster presentation. Abstract in the conference proceedings (PDF), page 240."
+  },
+  {
+    "id": "nov-conference-7",
+    "category": "conference",
+    "year": 2026,
+    "title": "Effects of Visual Biofeedback Scaling on Centre of Pressure Dynamics during Quiet Standing: An Analysis of Ankle Muscle Coherence and COP-EMG Cross-Correlation",
+    "authors": "Chik, M., Michaud, L., & Lajoie, Y.",
+    "journal": "SCAPPS · Ottawa · October 1–3, 2026",
+    "doi": "",
+    "url": "https://www.scapps.org/wp-content/uploads/2026/09/SCAPPS2026_Conference_Abstract_Book-Sep20.pdf#page=198",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Poster presentation. Abstract in the conference proceedings (PDF), page 198."
+  },
+  {
+    "id": "nov-conference-8",
+    "category": "conference",
+    "year": 2026,
+    "title": "Effects of augmented reality (AR) device design on postural stability in individuals with and without low vision",
+    "authors": "Gopalakrishnan, S., Gibson, A., Michaud, L., Kartha, A., Fletcher, D., & Wittich, W.",
+    "journal": "American Academy of Optometry · Anaheim · September 30–October 3, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Poster presentation."
+  },
+  {
+    "id": "nov-conference-9",
+    "category": "conference",
+    "year": 2026,
+    "title": "The effect of postural threats simulated through virtual reality on muscle contraction",
+    "authors": "Ong, H., Lajoie, Y., & Michaud, L.",
+    "journal": "NASPSPA · Montréal · June 18–20, 2026",
+    "doi": "10.1123/jsep.2026-0127",
+    "url": "https://doi.org/10.1123/jsep.2026-0127",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Poster presentation. Published abstract: Journal of Sport and Exercise Psychology, 48(S1), S24. Open-access abstract proceedings."
+  },
+  {
+    "id": "nov-conference-10",
+    "category": "conference",
+    "year": 2026,
+    "title": "Impact of augmented reality (AR) device design on postural stability in individuals with and without low vision",
+    "authors": "Gibson, A., Gopalakrishnan, S., Michaud, L., Kartha, A., Fletcher, D., & Wittich, W.",
+    "journal": "ARVO · Denver · May 3–7, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Poster presentation. Published abstract: Investigative Ophthalmology & Visual Science, 67(7), 4250."
+  },
+  {
+    "id": "nov-conference-11",
+    "category": "conference",
+    "year": 2025,
+    "title": "The effects of Virtual Reality on postural control: Determining if dual-tasks promote automatic behaviour during postural threat situations",
+    "authors": "Abraham, K., Michaud, L., & Lajoie, Y.",
+    "journal": "Brain and Integrative Vision Congress · Toronto · June 17–19, 2025",
+    "doi": "",
+    "url": "",
+    "note": "Poster presentation."
+  },
+  {
+    "id": "nov-conference-12",
+    "category": "conference",
+    "year": 2020,
+    "title": "Older Adults Dual-Task Walking with Cognitive Load Manipulation: A fNIRS Study",
+    "authors": "Salzman, T., Vallejo, D., Polskaia, N., Michaud, L., St-Amant, G., Lajoie, Y., & Fraser, S.",
+    "journal": "Cognitive Aging Conference · Atlanta · April 16–19, 2020",
+    "doi": "",
+    "url": "",
+    "note": "Cancelled due to COVID-19; not presented."
+  },
+  {
+    "id": "nov-conference-13",
+    "category": "conference",
+    "year": 2026,
+    "title": "Neuromuscular responses to ankle fatigue suggest compensatory postural control during challenging backward leaning",
+    "authors": "Michaud, L., & Bilodeau, M.",
+    "journal": "SCAPPS · Ottawa · October 1–3, 2026",
+    "doi": "",
+    "url": "https://www.scapps.org/wp-content/uploads/2026/09/SCAPPS2026_Conference_Abstract_Book-Sep20.pdf#page=31",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Oral presentation. Abstract in the conference proceedings (PDF), page 31."
+  },
+  {
+    "id": "nov-conference-14",
+    "category": "conference",
+    "year": 2026,
+    "title": "The effect of auditory and visual cognitive load and visual biofeedback on postural control",
+    "authors": "Ong, H., Michaud, L., & Lajoie, Y.",
+    "journal": "SCAPPS · Ottawa · October 1–3, 2026",
+    "doi": "",
+    "url": "https://www.scapps.org/wp-content/uploads/2026/09/SCAPPS2026_Conference_Abstract_Book-Sep20.pdf#page=30",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Oral presentation. Abstract in the conference proceedings (PDF), page 30."
+  },
+  {
+    "id": "nov-conference-15",
+    "category": "conference",
+    "year": 2026,
+    "title": "Effect of visual biofeedback scaling on center of pressure displacement during a dual-leg standing task: Assessing ankle co-contraction",
+    "authors": "Chik, M., Michaud, L., & Lajoie, Y.",
+    "journal": "NASPSPA · Montréal · June 18–20, 2026",
+    "doi": "10.1123/jsep.2026-0127",
+    "url": "https://doi.org/10.1123/jsep.2026-0127",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Oral presentation. Published abstract: Journal of Sport and Exercise Psychology, 48(S1), S41. Open-access abstract proceedings."
+  },
+  {
+    "id": "nov-conference-16",
+    "category": "conference",
+    "year": 2026,
+    "title": "Postural threat and dual-tasking elicit distinct postural control strategies: Evidence from stock market indicators",
+    "authors": "Michaud, L., Abraham, K., & Lajoie, Y.",
+    "journal": "NASPSPA · Montréal · June 18–20, 2026",
+    "doi": "10.1123/jsep.2026-0127",
+    "url": "https://doi.org/10.1123/jsep.2026-0127",
+    "openAccess": true,
+    "linkType": "abstract",
+    "note": "Oral presentation. Published abstract: Journal of Sport and Exercise Psychology, 48(S1), S31. Open-access abstract proceedings."
+  },
+  {
+    "id": "nov-conference-17",
+    "category": "conference",
+    "year": 2026,
+    "title": "Role of augmented reality (AR) device design on postural stability in individuals with and without low vision",
+    "authors": "Gopalakrishnan, S., Gibson, A., Michaud, L., Kartha, A., Fletcher, D., & Wittich, W.",
+    "journal": "Envision Conference · Columbus · May 27–30, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Oral presentation."
+  },
+  {
+    "id": "nov-conference-18",
+    "category": "conference",
+    "year": 2025,
+    "title": "Effect of Elevated Height in Virtual Reality in Postural Control in the Semi-Tandem Stance",
+    "authors": "Chik, M., Michaud, L., & Lajoie, Y.",
+    "journal": "Human Kinetics Graduate Students’ Association · Ottawa · March 28, 2025",
+    "doi": "",
+    "url": "",
+    "note": "Oral presentation."
+  },
+  {
+    "id": "nov-outreach-1",
+    "category": "outreach",
+    "year": 2026,
+    "title": "Introducing the neuromotor research program at the TechSoins laboratory",
+    "authors": "Michaud, L.",
+    "journal": "Midi-MOSAIC · Université du Québec en Outaouais · October 28, 2026",
+    "doi": "",
+    "url": "",
+    "note": "Invited presentation with A. Potvin-Desrochers, D.-A. Zounon and N. Mougeot. Title translated from French."
+  },
+  {
+    "id": "nov-outreach-2",
+    "category": "outreach",
+    "year": 2026,
+    "title": "Supporting mobility in people with Parkinson’s disease: A mixed-methods study of the Keeogo exoskeleton",
+    "authors": "Michaud, L.",
+    "journal": "Santé Québec – Outaouais · October 22, 2026",
+    "doi": "",
+    "url": "https://espaceexpertises.cisss07.ca/product/midi-releve-soutenir-mobilite-parkinson-etude-exosquelette-keeogo/",
+    "note": "Invited presentation. Title translated from French."
+  }
+]
