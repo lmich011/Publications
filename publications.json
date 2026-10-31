@@ -457,13 +457,13 @@
     "id": "communication-16",
     "category": "conference",
     "year": 2019,
-    "title": "Number of trials required to assess standing postural control in single and dual tasks in young adults",
+    "title": "Nombre d’essais nécessaire pour évaluer le contrôle postural en station debout en simple et double tâche chez de jeunes adultes",
     "authors": "Michaud, L., Richer, N., & Lajoie, Y.",
     "journal": "SOFPEL · 26th annual congress",
     "doi": "10.1016/j.neucli.2019.10.134",
     "url": "",
-    "language": "en",
-    "note": "Original title in French. Neurophysiologie Clinique, 49(6), 456."
+    "language": "fr",
+    "note": "Neurophysiologie Clinique, 49(6), 456."
   },
   {
     "id": "communication-17",
@@ -505,12 +505,13 @@
     "id": "nov-conference-1",
     "category": "conference",
     "year": 2026,
-    "title": "Immediate effects of the Keeogo™ exoskeleton on gait kinematics in people with Parkinson’s disease",
+    "title": "Effets immédiats de l’exosquelette Keeogo™ sur les caractéristiques cinématiques de la marche chez les personnes atteintes de la maladie de Parkinson",
     "authors": "Michaud, L., Bouguila, A., Moussa, A., Cadena, K., Bilodeau, M., & Potvin-Desrochers, A.",
     "journal": "Q-DOPA · Montréal · November 20, 2026",
     "doi": "",
     "url": "",
-    "note": "Scheduled poster presentation. Title translated from French."
+    "note": "Scheduled poster presentation.",
+    "language": "fr"
   },
   {
     "id": "nov-conference-2",
@@ -717,22 +718,24 @@
     "id": "nov-outreach-1",
     "category": "outreach",
     "year": 2026,
-    "title": "Introducing the neuromotor research program at the TechSoins laboratory",
+    "title": "Découverte de l’axe de recherche neuro-moteur du laboratoire TechSoins",
     "authors": "Michaud, L.",
     "journal": "Midi-MOSAIC · Université du Québec en Outaouais · October 28, 2026",
     "doi": "",
     "url": "",
-    "note": "Invited presentation with A. Potvin-Desrochers, D.-A. Zounon and N. Mougeot. Title translated from French."
+    "note": "Invited presentation with A. Potvin-Desrochers, D.-A. Zounon and N. Mougeot.",
+    "language": "fr"
   },
   {
     "id": "nov-outreach-2",
     "category": "outreach",
     "year": 2026,
-    "title": "Supporting mobility in people with Parkinson’s disease: A mixed-methods study of the Keeogo exoskeleton",
+    "title": "Soutenir la mobilité chez les personnes atteintes de la maladie de Parkinson : une étude mixte sur l’utilisation de l’exosquelette Keeogo",
     "authors": "Michaud, L.",
     "journal": "Santé Québec – Outaouais · October 22, 2026",
     "doi": "",
     "url": "https://espaceexpertises.cisss07.ca/product/midi-releve-soutenir-mobilite-parkinson-etude-exosquelette-keeogo/",
-    "note": "Invited presentation. Title translated from French."
+    "note": "Invited presentation.",
+    "language": "fr"
   }
 ]

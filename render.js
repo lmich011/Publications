@@ -38,7 +38,7 @@ export function renderPublications(catalog) {
     const entries=catalog.filter(p=>p.category===key);
     if(!entries.length)return '';
     const years=[...new Set(entries.map(p=>p.year))].sort((a,b)=>(b||0)-(a||0));
-    return `<section class="category-section" id="${key}" aria-labelledby="heading-${key}"><div class="category-heading"><h2 id="heading-${key}">${label}</h2><span>${entries.length}</span></div>${years.map(year=>`<section class="year-group"><h3>${escape(year||'')}</h3><div>${entries.filter(p=>p.year===year).map(p=>`<article><p class="journal">${escape(p.journal)}</p><h4 lang="${escape(p.language||'en')}">${escape(p.title)}</h4>${p.authors?`<p class="authors">${escape(p.authors)}</p>`:''}${p.note?`<p class="document-note">${escape(p.note)}</p>`:''}${actions(p)}</article>`).join('')}</div></section>`).join('')}</section>`;
+    return `<section class="category-section" id="${key}" aria-labelledby="heading-${key}"><div class="category-heading"><h2 id="heading-${key}">${label}</h2><span>${entries.length}</span></div>${years.map(year=>`<section class="year-group"><h3>${escape(year||'')}</h3><div>${entries.filter(p=>p.year===year).map(p=>`<article><p class="journal">${escape(p.journal)}</p><h4 translate="no" lang="${escape(p.language||'en')}">${escape(p.title)}</h4>${p.authors?`<p class="authors">${escape(p.authors)}</p>`:''}${p.note?`<p class="document-note">${escape(p.note)}</p>`:''}${actions(p)}</article>`).join('')}</div></section>`).join('')}</section>`;
   }).join('');
   return {html,navigation,count:catalog.length};
 }
